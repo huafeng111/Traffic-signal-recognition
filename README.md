@@ -11,6 +11,7 @@ https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 The data is randomly selected for each run, so the accuracy will fluctuate in an interval. 
 The following is the display of the results of a run
+s
 
 Model1 Test Data accuracy:  86.74584323040379</br>
 Model2 Test Data accuracy:  88.64608076009502</br>
